@@ -24,9 +24,6 @@ EXTERNAL V2 was made for educational purposes and personal use. By using our ser
 <h2 align="center">
 <a href="#features">Features</a>・
 <a href="https://github.com/Lunahax/EXTERNAL-V2 /releases">Download</a>・
-<a href="https://github.com/Lunahax/TS#1a">Compability</a>・
-<a href="https://github.com/Lunahax/TS#1b">Installation</a>・
-<a href="https://github.com/Lunahax/TS#1c">Troubleshooting</a>・
 <a href="#changes">Changelogs</a>
 </h2>
 
@@ -67,12 +64,6 @@ Preview soon
 ```
 
 If you would like us to add something please get in contact. Any feedback is appreciated.
-
----
-
-## <a id="com"></a>⚠️ 〢 Information 
-
-Compability, Installation and Troubleshooting has been merged with other projects and was moved to [https://github.com/Lunahax/TS](https://github.com/Lunahax/TS#vex)
 
 ---
 
