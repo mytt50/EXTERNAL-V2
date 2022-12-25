@@ -43,24 +43,45 @@ Preview soon
 **Aimbot**
 ```sh-session
 - Unsilent
+- Silent
 - Smooth
-- FOV Circle
-- Custom Circle Size
-- Custom Accuracy
-- Trigger Keys
+- Correction
+- Assist
+- Triggerbot
+- Targets
+- Adjustable Accuracy
+- Anti-180-flick
+- Limit FOV
+- Custom FOV shape
+- Adjustable FOV Area size
+- Adjustable FOV area color
 - No Recoil
+- Auto-Reload
+- Custom keybind
 ```
 
 **ESP**
 ```sh-session
 - Boxes
+- Corners
 - Tracers
-- HP Bars
-- Chams
 - Skeletons
 - Glow
-- Custom Glow Intensity
-- Filter Targets
+- Chams
+- Outlines
+- Custom colors
+- RGB
+- Targets
+- Wireframe
+```
+
+**Others**
+```sh-session
+- Hide cheat on recording / stream
+- Skinchanger / unlock inventory
+- Spinbot
+- Adjustable Spinbot speed
+- Spoofer
 ```
 
 If you would like us to add something please get in contact. Any feedback is appreciated.
