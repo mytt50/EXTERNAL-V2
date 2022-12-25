@@ -22,9 +22,7 @@ EXTERNAL V2 was made for educational purposes and personal use. By using our ser
 ---
 
 <h2 align="center">
-<a href="#features">Features</a>・
-<a href="https://github.com/Lunahax/EXTERNAL-V2 /releases">Download</a>・
-<a href="#changes">Changelogs</a>
+<a href="#features">Features</a>・<a href="https://github.com/Lunahax/EXTERNAL-V2 /releases">Download</a>
 </h2>
 
 ---
@@ -85,15 +83,6 @@ Preview soon
 ```
 
 If you would like us to add something please get in contact. Any feedback is appreciated.
-
----
-
-## <a id="changes"></a>🌟 〢 Changelogs
-
-```diff
-v0.8 | 19/12/2022
-+ Base Program
-```
 
 ---
 
